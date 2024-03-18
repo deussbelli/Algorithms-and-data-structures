@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Графи, алгоритм Дейкстри", "Графи, алгоритм Дейкстри\Графи, алгоритм Дейкстри.vcxproj", "{BFC18DC3-754B-4F74-8EBF-C61093D39A53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFC18DC3-754B-4F74-8EBF-C61093D39A53}.Debug|x64.ActiveCfg = Debug|x64
+		{BFC18DC3-754B-4F74-8EBF-C61093D39A53}.Debug|x64.Build.0 = Debug|x64
+		{BFC18DC3-754B-4F74-8EBF-C61093D39A53}.Debug|x86.ActiveCfg = Debug|Win32
+		{BFC18DC3-754B-4F74-8EBF-C61093D39A53}.Debug|x86.Build.0 = Debug|Win32
+		{BFC18DC3-754B-4F74-8EBF-C61093D39A53}.Release|x64.ActiveCfg = Release|x64
+		{BFC18DC3-754B-4F74-8EBF-C61093D39A53}.Release|x64.Build.0 = Release|x64
+		{BFC18DC3-754B-4F74-8EBF-C61093D39A53}.Release|x86.ActiveCfg = Release|Win32
+		{BFC18DC3-754B-4F74-8EBF-C61093D39A53}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59C4AAEB-8BC3-4D97-9792-57F18BA63721}
+	EndGlobalSection
+EndGlobal
